@@ -1,0 +1,12 @@
+{
+  "S0": 292.03,
+  "n_rows": 1048,
+  "n_expiries": 20,
+  "K_min": 200.0,
+  "K_max": 800.0,
+  "T_min": 0.0210045662100456,
+  "T_max": 2.2457762557077627,
+  "expiries_kept_at_least": 10,
+  "calib_nodes": 54,
+  "calib_Ts": 10
+}

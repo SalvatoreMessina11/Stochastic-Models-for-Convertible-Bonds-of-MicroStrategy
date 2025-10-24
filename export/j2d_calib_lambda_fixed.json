@@ -1,0 +1,10 @@
+{
+  "model": "BS-J2D",
+  "ticker": "MSTR",
+  "S0": 292.03,
+  "lambda_joint": 0.0665,
+  "sigma_joint": 0.6765,
+  "lambda_fixed": 0.035,
+  "sigma_star": 0.6682,
+  "timestamp": "2025-10-24 20:41:47"
+}

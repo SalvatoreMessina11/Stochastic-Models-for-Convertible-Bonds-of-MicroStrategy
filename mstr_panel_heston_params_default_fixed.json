@@ -1,0 +1,16 @@
+{
+  "v0": 0.4377698899444014,
+  "kappaQ": 5.447028405918255,
+  "thetaQ": 0.24222051450003695,
+  "xi": 1.6033864076867566,
+  "rho": 0.6887481822325074,
+  "lambda": 0.035,
+  "lambda_default": 0.035,
+  "S0": 292.03,
+  "pricing_rate": "r + lambda_default",
+  "objective": "relative_RMSE",
+  "feller_enforced": true,
+  "xi_min": 0.1,
+  "opt_cost": 0.06151959482478346,
+  "opt_seconds": 380.6996727000005
+}

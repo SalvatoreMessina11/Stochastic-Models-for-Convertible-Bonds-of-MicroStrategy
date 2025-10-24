@@ -1,0 +1,14 @@
+{
+  "lambda_default": 0.035,
+  "global": {
+    "MAE": 3.793811338629577,
+    "RMSE": 6.509240194473557,
+    "Bias": -3.546469527683651,
+    "RelMAE_pct": 5.753786070924207,
+    "RelRMSE_pct": 7.449637884875776,
+    "RelBias_pct": -5.182124696840468
+  },
+  "counts": 84,
+  "unique_maturities": 6,
+  "unique_strikes": 14
+}
